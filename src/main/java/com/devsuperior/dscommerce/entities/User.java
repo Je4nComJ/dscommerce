@@ -133,7 +133,7 @@ public class User implements UserDetails {
         return roles;
     }
 
-    public void addROle(Role role){
+    public void addRole(Role role){
         roles.add(role);
     }
 
