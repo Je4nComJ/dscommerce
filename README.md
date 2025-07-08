@@ -119,8 +119,3 @@ Este projeto foi criado com foco em:
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
 
 ---
-
-## 📬 Contato
-
-Jean Victor  
-[GitHub](https://github.com/Je4nComJ) • [LinkedIn]((https://www.linkedin.com/in/jeanvictorfarias1511/))
