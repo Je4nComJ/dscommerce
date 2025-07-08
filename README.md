@@ -123,4 +123,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 ## 📬 Contato
 
 Jean Victor  
-[GitHub](https://github.com/Je4nComJ) • [LinkedIn](https://www.linkedin.com/in/jeanvictorgomes)
+[GitHub](https://github.com/Je4nComJ) • [LinkedIn]((https://www.linkedin.com/in/jeanvictorfarias1511/))
